@@ -17,7 +17,7 @@ public_folder: ../assets
 
 Docs: https://www.netlifycms.org/docs/configuration-options/#media-and-public-folders.
 
-## Gatsby Plugins
+## Gatsby Plugins test
 
 From [@cwgw](https://github.com/cwgw):
 
